@@ -543,11 +543,6 @@ Akbank GenAI Bootcamp - Final Project
 - 📧 Email: ozanmhr@gmail.com
 <<<<<<< HEAD
 - 🔗 LinkedIn: (https://www.linkedin.com/in/ozanmhrc/)
-
-=======
-- 🔗 LinkedIn: https://www.linkedin.com/in/ozanmhrc/
->>>>>>> 6278233 (güncelleme)
-
 ---
 
 ## 🙏 Teşekkürler
@@ -592,8 +587,7 @@ Sorularınız için:
 
 ## 🎉 Demo
 
-**Live Demo**: [https://akbank-rag-chatbot.streamlit.app](https://your-deployed-url.streamlit.app)
-
+**Live Demo**: https://akbank-rag-chatbot.streamlit.app/
 
 ---
 
