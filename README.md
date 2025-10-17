@@ -236,8 +236,8 @@ Tarayıcınızda otomatik olarak `http://localhost:8501` açılacaktır.
 #### Sohbet Ekranı
 ![Sohbet Screenshot](images/demo2.png)
 
-#### İstatistikler
-![İstatistikler Screenshot](images/architecture.png)
+#### Örnek
+![İstatistikler Screenshot](images/demo3.png)
 
 ---
 
@@ -541,8 +541,12 @@ Muhammed Samed Çağlı
 Akbank GenAI Bootcamp - Final Project
 
 - 📧 Email: ozanmhr@gmail.com
+<<<<<<< HEAD
 - 🔗 LinkedIn: (https://www.linkedin.com/in/ozanmhrc/)
 
+=======
+- 🔗 LinkedIn: https://www.linkedin.com/in/ozanmhrc/
+>>>>>>> 6278233 (güncelleme)
 
 ---
 
