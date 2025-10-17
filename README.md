@@ -534,12 +534,15 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 👨‍💻 Geliştirici
 
-**[Your Name]**  
+Ozan Möhürcü
+
+Muhammed Samed Çağlı
+
 Akbank GenAI Bootcamp - Final Project
 
-- 📧 Email: your.email@example.com
-- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [Your GitHub](https://github.com/yourusername)
+- 📧 Email: ozanmhr@gmail.com
+- 🔗 LinkedIn: (https://www.linkedin.com/in/ozanmhrc/)
+
 
 ---
 
@@ -579,7 +582,7 @@ Projeyi beğendiyseniz ⭐ vermeyi unutmayın!
 Sorularınız için:
 - 📧 Issues: GitHub Issues sayfasını kullanın
 - 💬 Discussions: GitHub Discussions'da tartışın
-- 📧 Email: your.email@example.com
+- 📧 Email: ozanmhr@gmail.com
 
 ---
 
@@ -587,9 +590,6 @@ Sorularınız için:
 
 **Live Demo**: [https://akbank-rag-chatbot.streamlit.app](https://your-deployed-url.streamlit.app)
 
-**Demo Video**: [YouTube Link](https://youtube.com/your-demo-video)
-
-**Presentation**: [Google Slides](https://docs.google.com/presentation/your-presentation)
 
 ---
 
